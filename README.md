@@ -18,7 +18,7 @@ Install a certificate to local machine's cert store needs adminstrator previlege
 ![](http://p1.bpimg.com/514597/1c7f3cee2e644b10.png)
 
 ##Key codes
-```
+```csharp
             X509Certificate2 cert = null;
             using (TcpClient client = new TcpClient())
             {

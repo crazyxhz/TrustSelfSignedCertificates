@@ -16,7 +16,7 @@ ArcGIS Enterprise产品体系中，在调试、测试环境下，大量使用了
 ![](http://p1.bpimg.com/514597/1c7f3cee2e644b10.png)
 
 ##关键代码
-```
+```csharp
             X509Certificate2 cert = null;
             using (TcpClient client = new TcpClient())
             {
