@@ -6,6 +6,11 @@ ArcGIS Enterprise产品体系中，在调试、测试环境下，大量使用了
 
  
 ##说明：
+
+[直接下载地址](https://github.com/crazyxhz/TrustSelfSignedCertificates/raw/master/bin/Trust.exe)
+
+[源码](https://github.com/crazyxhz/TrustSelfSignedCertificates/tree/master/src)
+
 信任证书需要管理员权限，程序启动后会自动请求管理员权限。默认会读取本机的FQDN，如果需要信任远程机器的证书，请手动填写正确的远程机器的FQDN或者IP地址。默认端口是Server(6443),Portal(7443),DataStore(2443),IIS(443)端口，可以根据实际情况信任所需的SSL端口。
 
 ![](http://p1.bpimg.com/514597/1c7f3cee2e644b10.png)

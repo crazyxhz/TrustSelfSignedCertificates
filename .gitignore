@@ -155,3 +155,4 @@ $RECYCLE.BIN/
 #webstrom project folder
 .idea/
 src/.vs/
+src/Trust/bin/
