@@ -1,5 +1,5 @@
 #One Click trust Self-Signed Certificates
-
+[中文说明](https://github.com/crazyxhz/TrustSelfSignedCertificates/blob/master/README_CN.md)
 ##Overview
 ArcGIS Enterprise's products: Server, Portal, DataStore, WebAdaptor, when installed in debug and testing environments all use Self-Signed certificates. Manually download these certificates from webpage and install it to local machine's trust root will be a tedious job. Here's this little tool come to the rescure. Save us from the repetitive job.
 
